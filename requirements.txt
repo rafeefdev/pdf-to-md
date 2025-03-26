@@ -1,0 +1,4 @@
+pdfplumber
+tqdm
+requests==2.26.0
+pandas
